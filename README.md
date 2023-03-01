@@ -23,7 +23,7 @@ https://github.com/D34THNOTE
 where you can find the very same description and here and more!
 
 A little bit about me:
-- I'm a Computer Science student at Polish Japanese Academy of Information Technology since the winter semester of 2020/21, now minoring in Databases
+- I'm a Computer Science student at Polish Japanese Academy of Information Technology since the winter semester of 2020/21, specializing in Databases
 - Based in Warsaw, Poland
 - My first programming language is Java and I feel pretty good in it!
 - For the past semester my main focus has been web development, I have developed a website project with backend in Node.js(Express) and frontend in React.js, utilizing a MySQL database
