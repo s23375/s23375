@@ -20,7 +20,7 @@ My name is Bartosz, but people call be Bartek - sounds better - welcome!
 IMPORTANT!
 This github is based on my university's e-mail, since 31st of January 2023 I have migrated my activity to:
 https://github.com/D34THNOTE
-where you can find the very same description and here and more!
+where you can find the very same description that's here and more!
 
 A little bit about me:
 - I'm a Computer Science student at Polish Japanese Academy of Information Technology since the winter semester of 2020/21, specializing in Databases
